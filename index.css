@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+}
+table,tr,td{
+    border: 1px solid whitesmoke;
+    border-collapse: collapse;
+    align-self: center;
+    b
+}
+.orange {
+    color: whitesmoke;
+    background-color: orange;
+    box-sizing: 2px;
+    font-size: 50px;
+}
+.blue {
+    color: whitesmoke;
+    background-color: blue;
+    box-sizing: 2px;
+    font-size: 50px;
+}
+.yellow {
+    color: whitesmoke;
+    background-color: yellow;
+    box-sizing: 2px;
+    font-size: 50px;
+}
+.green {
+    color: whitesmoke;
+    background-color: green;
+    box-sizing: 2px;
+    font-size: 50px;
+}
+.gold {
+    color: whitesmoke;
+    background-color: gold;
+    box-sizing: 2px;
+    font-size: 50px;
+}
