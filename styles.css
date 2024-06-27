@@ -1,0 +1,59 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 4rem; /* Adjust as needed */
+    margin-left: 2rem; /* Adjust as needed */
+    margin-top: 2rem; /* Adjust as needed */
+}
+
+span {
+    color: red;
+    font-style: oblique;
+}
+
+.days {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3rem; /* Adjust as needed */
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border: 2px solid gold;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem; /* Adjust as needed */
+}
+
+.sunday {
+    background-color: aqua;
+}
+
+.monday {
+    background-color: blue;
+}
+
+.tuesday {
+    background-color: blueviolet;
+}
+
+.wednesday {
+    background-color: brown;
+}
+
+.thursday {
+    background-color: chartreuse;
+}
+
+.friday {
+    background-color: crimson;
+}
+
+.saturday {
+    background-color: fuchsia;
+}
